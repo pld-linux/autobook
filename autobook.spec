@@ -18,7 +18,7 @@ Ten dokument jest podrêcznikiem narzêdzi GNU autoconfa, automake
 i libtoola.
 
 %prep
-%setup -q -n %{name}
+%setup -q
 
 %files
 %defattr(644,root,root,755)
