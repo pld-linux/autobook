@@ -20,6 +20,9 @@ i libtoola.
 %prep
 %setup -q
 
+%clean
+rm -rf $RPM_BUILD_ROOT
+
 %files
 %defattr(644,root,root,755)
 %doc *
