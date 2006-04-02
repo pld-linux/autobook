@@ -8,6 +8,7 @@ Group:		Documentation
 Source0:	http://sources.redhat.com/autobook/%{name}-%{version}.tar.gz
 # Source0-md5:	3e7c4928ca30747a1589f61e6acf934d
 URL:		http://sources.redhat.com/autobook/
+BuildRequires:	sed >= 4.0
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
