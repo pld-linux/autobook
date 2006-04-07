@@ -1,12 +1,12 @@
 Summary:	GNU Autoconf, Automake and Libtool
 Summary(pl):	Podrêcznik Autoconf, Automake i Libtoola
 Name:		autobook
-Version:	1.3
-Release:	2
+Version:	1.5
+Release:	1
 License:	Open Publication License
 Group:		Documentation
 Source0:	http://sources.redhat.com/autobook/%{name}-%{version}.tar.gz
-# Source0-md5:	3e7c4928ca30747a1589f61e6acf934d
+# Source0-md5:	ce2be49c716a917e7c9342e7dedfeaf0
 URL:		http://sources.redhat.com/autobook/
 BuildRequires:	sed >= 4.0
 BuildArch:	noarch
