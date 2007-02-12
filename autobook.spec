@@ -1,5 +1,5 @@
 Summary:	GNU Autoconf, Automake and Libtool
-Summary(pl):	Podrêcznik Autoconf, Automake i Libtoola
+Summary(pl.UTF-8):   PodrÄ™cznik Autoconf, Automake i Libtoola
 Name:		autobook
 Version:	1.5
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This document is a tutorial on GNU autoconf, automake and libtool.
 
-%description -l pl
-Ten dokument jest podrêcznikiem narzêdzi GNU autoconfa, automake
+%description -l pl.UTF-8
+Ten dokument jest podrÄ™cznikiem narzÄ™dzi GNU autoconfa, automake
 i libtoola.
 
 %prep
