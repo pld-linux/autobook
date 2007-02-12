@@ -1,5 +1,5 @@
 Summary:	GNU Autoconf, Automake and Libtool
-Summary(pl.UTF-8):   Podręcznik Autoconf, Automake i Libtoola
+Summary(pl.UTF-8):	Podręcznik Autoconf, Automake i Libtoola
 Name:		autobook
 Version:	1.5
 Release:	1
